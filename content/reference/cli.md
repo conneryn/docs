@@ -6,14 +6,6 @@ The base command for the CodeZero CLI.
 
 ### Installation
 
-Install the CLI tool using NPM
-
-```
-npm install -g @c6o/cli
-```
-
-### Installation
-
 The CLI tool is published as a public NPM package called `@c6o/cli`.
 
 #### Prerequisits
